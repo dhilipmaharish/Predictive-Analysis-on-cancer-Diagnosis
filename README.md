@@ -36,7 +36,7 @@ a. Applied Response coding
 b. Applied One-hot encoding
 III. Text literature
 
-a Applied BOW,TFidf ,w2v
+a Applied BOW,TFidf
 
 4. Model implementation:
 Applied various kind of model
@@ -46,3 +46,5 @@ Applied various kind of model
 4. Linear SVM
 5. Random forest
 Finally done some stacking model operations.
+
+
