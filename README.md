@@ -22,6 +22,7 @@ Workflow of the project:
 2. Applied Exploratory Data analysis on the train dataset.
 
 3. Features engineering:
+
 I. Gene feature from dataset -categorical variable
 
 a. Applied Response coding
