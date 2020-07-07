@@ -47,4 +47,6 @@ Applied various kind of model
 5. Random forest
 Finally done some stacking model operations.
 
+The final Results of loss taken account for every model:
 
+![per1](https://user-images.githubusercontent.com/37034930/86717427-05899d00-bfd7-11ea-867c-97e921666b36.PNG)
