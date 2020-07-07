@@ -27,6 +27,7 @@ I. Gene feature from dataset -categorical variable
 a. Applied Response coding
 
 b. Applied One-hot encoding
+
 II. Variation feature from the dataset-categorical variable
 
 a. Applied Response coding
