@@ -51,6 +51,7 @@ The final Results of loss taken account for every model:
 
 ![per1](https://user-images.githubusercontent.com/37034930/86717427-05899d00-bfd7-11ea-867c-97e921666b36.PNG)
 
+conclusion:
 
 From above the results we can conclude that Logistic Regression and Linear SVM performs well when compared to other models.
 Thus the Misclassification Points is about 32.93% and 32.63%.
